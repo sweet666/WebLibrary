@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="hibernate.cfg.xml/Hibernate" uuid="c85ab7d2-a2df-4778-950c-3e24e99d8b92">
+      <user-name>root</user-name>
+      <user-password>dfc0dfcedfc8dfc9df90dfc7dfd3dfd9dfdbdfc6df90df85df85dfc6dfc5dfc9dfcbdfc6dfc2dfc5dfd9dfdedf90df99df99df9adf9cdf85dfdddfcfdfc8dfc6dfc3dfc8dfd8dfcbdfd8dfd3</user-password>
+      <introspection-scope>weblibrary:</introspection-scope>
+      <resolve-scope>weblibrary:</resolve-scope>
+    </data-source>
+    <data-source name="dataSource" uuid="2ce7c8ce-5762-4871-8cf4-3386802c1717">
+      <first-sync>true</first-sync>
+      <user-name>jdbc:mysql://localhost:3306/weblibrary</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+    </data-source>
+    <data-source name="sessionFactory/Hibernate" uuid="5338247b-e280-4896-b3d4-b478703d7bc8">
+      <user-name>root</user-name>
+      <user-password>dfc0dfcedfc8dfc9df90dfc7dfd3dfd9dfdbdfc6df90df85df85dfc6dfc5dfc9dfcbdfc6dfc2dfc5dfd9dfdedf90df99df99df9adf9cdf85dfdddfcfdfc8dfc6dfc3dfc8dfd8dfcbdfd8dfd3</user-password>
+    </data-source>
+  </component>
+</project>
